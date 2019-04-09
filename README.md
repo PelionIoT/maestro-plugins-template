@@ -1,0 +1,1 @@
+# maestro-plugins-template
